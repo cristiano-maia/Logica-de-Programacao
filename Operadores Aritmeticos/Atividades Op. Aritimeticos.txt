@@ -1,0 +1,65 @@
+Atividade 1
+Tendo como dados de entrada a distância total (em km) percorrida por um
+automóvel e a quantidade de combustível (em litros) consumida para percorrê-la,
+calcule e imprima o consumo médio de combustível.
+
+Atividade 2
+Uma professora recebeu vinte e cinco livros.
+Deu alguns para seus alunos e depois recebeu mais três livros, ficando
+com dezoito livros. Quantos livros a professora deu para seus alunos?
+
+Atividade 3
+Um funcionário foi admitido em uma empresa aos 14 anos e
+aposentou-se após 43 anos de trabalho.
+Qual a idade desse funcionário ao se aposentar?
+
+Atividade 4
+Um carro usado foi comprado por R$ 3.500,00 e vendido por
+R$ 7.150,00 após passar por reparos no valor de R$ 2.300,00.
+Qual o lucro obtido nessa venda?
+
+Atividade 5
+Uma pessoa comprou uma casa por R$ 60.000,00. Gastou 75.000,00
+em reformas e vendeu com um lucro de R$ 120.000,00. Qual o preço
+de venda da casa?
+
+Atividade 6
+Uma pessoa comprou um carro em 4 prestações:
+1ª no valor de R$ 750,00
+2ª no valor de R$ 620,00
+3ª no valor de R$ 580,00
+4ª no valor de R$ 1250,00
+Qual o preço pago pelo carro?
+
+Atividade 7
+Uma dívida de R$ 3.200,00 deveria ser paga em 4 vezes.
+Pagou a 1ª R$ 580,00, pagou a 2ª R$ 620,00, pagou a 3ª R$ 750,00.
+Qual o valor da 4ª prestação?
+
+Atividade 8
+Do meu salário de R$ 1.500,00 tive um desconto total de R$ 240,00.
+Este desconto equivale a quantos por cento do meu salário?
+
+Atividade 9
+Eu tenho 25 anos. Meu irmão tem 12 anos. A idade dele é quantos por
+cento da minha?
+
+Atividade 10
+Por um descuido meu, perdi R$ 336,00 dos R$ 1.700,00 que eu tinha
+em meu bolso. Quantos por cento eu perdi desta quantia?
+
+Atividade 11
+Dos 28 bombons que estavam em minha gaveta, já comi 75%. Quantos
+bombons ainda me restam?
+
+Atividade 12
+Das 20 moedas que possuo em meu bolso, apenas 15% delas são
+moedas de 1 real. Quantas moedas de 1 real eu possuo em meu bolso?
+
+Atividade 13
+Meu salário é R$ 3.500,00. Houve um desconto de 6% de vale
+transporte e 11% de INSS. Qual o valor de cada desconto e quanto me
+sobrou?
+
+Atividade 14
+Crie um programa que leia o nome do aluno e 3 notas, no final exibir o nome do aluno, cada uma das notas e qual foi dua média.
